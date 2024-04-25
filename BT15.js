@@ -1,5 +1,5 @@
 
-BT13=
+BT15=
 [{"name":"어니몬","color":"적","level":2,"type":"Digi-Egg","attribute":"In-Training - Bulb","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","-"],"card_number":"BT15-001","card_level":"U","image_link":"https://i.imgur.com/A4qfCZe.png","LOCAL_NUMBER":9000},
 {"name":"뿔몬","color":"청","level":2,"type":"Digi-Egg","attribute":"In-Training - Lesser","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","-"],"card_number":"BT15-002","card_level":"U","image_link":"https://i.imgur.com/EmfCpoo.png","LOCAL_NUMBER":9001},
 {"name":"야옹몬","color":"황","level":2,"type":"Digi-Egg","attribute":"In-Training - Lesser","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","-"],"card_number":"BT15-003","card_level":"U","image_link":"https://i.imgur.com/FWMhpru.png","LOCAL_NUMBER":9002},
