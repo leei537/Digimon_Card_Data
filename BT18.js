@@ -1,5 +1,5 @@
 
-BT17=
+BT18=
 [{"name":"기기몬","color":"적","level":2,"type":"디지타마","attribute":"幼年期 - レッサー型","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","【アタック時】1コスト支払うことで、DP3000以下の相手のデジモン1体を消滅させる。"],"card_number":"BT17-001","card_level":"U","image_link":"https://i.imgur.com/V4WeMUq.png","LOCAL_NUMBER":12000},
 {"name":"샤오몬","color":"청","level":2,"type":"디지타마","attribute":"幼年期 - レッサー型","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","【自分のターン】[ターンに1回]進化元から自分のデジモンが登場したとき、≪1ドロー≫。"],"card_number":"BT17-002","card_level":"U","image_link":"https://i.imgur.com/qnFEwla.png","LOCAL_NUMBER":12001},
 {"name":"비비몬","color":"황","level":2,"type":"디지타마","attribute":"幼年期 - レッサー型/AE社","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","【自分のターン】[ターンに1回]効果でこのデジモンの進化元にテイマーカードが置かれたとき、メモリー+1。"],"card_number":"BT17-003","card_level":"U","image_link":"https://i.imgur.com/f6u52ex.png","LOCAL_NUMBER":12002},
