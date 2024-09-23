@@ -131,8 +131,8 @@ BT05=
 {"name":"오메가몬 즈왈트 DEFEAT(P)","color":"백","card_number":"BT5-112P1","card_level":"SEC","type":"디지몬","level":7,"dp":13000,"cost":15,"attribute":"궁극체 바이러스종 성기사형","evolution_cost":["Lv.6~3","Lv.6~3"],"effect":["【시큐리티】 배틀을 진행하지 않고, 이 카드를 코스트를 지불하지 않고 등장시킨다.\n【진화 시】 상대의 테이머 1명을 소멸시킨다.\n【소멸 시】 상대의 디지몬 1마리를 소멸시킨다.","-","-"],"LOCAL_NUMBER":783,"image_link":"https://i.imgur.com/M16xiPV.png"},
 {"name":"카오스듀크몬(P)","color":"자","card_number":"BT5-081P2","card_level":"SR","type":"디지몬","level":6,"dp":12000,"cost":12,"attribute":"궁극체 바이러스종 암흑기사형","evolution_cost":["Lv.5~4","-"],"effect":["【진화 시】 자신의 다른 디지몬 1마리를 소멸시키는 것으로, Lv.5 이하의 상대 디지몬 1마리를 소멸시킨다.\n【자신의 턴】 [턴에 1회] 자신의 다른 디지몬이 소멸했을 때, 자신의 트래시에서 퍼플의 Lv.3인 디지몬 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 이 효과로 등장한 디지몬의 【등장 시】 효과는 발휘하지 않는다.","-","-"],"LOCAL_NUMBER":784,"image_link":"https://i.imgur.com/5JqT1bq.png"},
 
-{"name":"앱솔루트 블래스트(P)","color":"청","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":6,"evolution_cost":["-","-"],"effect":["【메인】상대의 디지몬 1마리의 진화원을 아래에서부터 1장 파기한다. 그 후, 진화원을 갖지 않은 상대의 디지몬 1마리를 덱 아래로 되돌린다.","【시큐리티】 이 카드의 【메인】 효과를 발휘한다.","-"],"card_number":"BT5-097P1","card_level":"U","image_link":"https://i.imgur.com/lHmaNEe.png"}
-
-
+{"name":"앱솔루트 블래스트(P)","color":"청","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":6,"evolution_cost":["-","-"],"effect":["【메인】상대의 디지몬 1마리의 진화원을 아래에서부터 1장 파기한다. 그 후, 진화원을 갖지 않은 상대의 디지몬 1마리를 덱 아래로 되돌린다.","【시큐리티】 이 카드의 【메인】 효과를 발휘한다.","-"],"card_number":"BT5-097P1","card_level":"U","image_link":"https://i.imgur.com/lHmaNEe.png"},
+{"name": "오메가몬(P)", "color": "백", "card_number": "BT5-086P5", "card_level": "SR", "type": "디지몬", "DP": 14000, "cost": 15, "attribute": "궁극체 백신종 성기사형,로얄 나이츠", "evolution_cost": ["Lv.6~4", "Lv.6~4"], "effect": ["【진화 시】《진격》 (메모리가 상대 쪽의 1 이상이라면 이 디지몬으로 어택할 수 있다) 【진화 시】이 디지몬을 액티브로 한다. 【서로의 턴】이 디지몬이 상대의 효과로 소멸할 때, 또는 패/덱으로 되돌아갈 때, 이 디지몬의 진화원에서 Lv.6의 디지몬 카드 1장을 파기하는 것으로, 이 디지몬은 소멸하지 않으며, 패/덱으로 되돌아가지 않는다.", "-", "-"] ,"image_link":"https://i.imgur.com/7b3qelu.png"},
+{"name": "모노크로몬(P)", "color": "적", "card_number": "BT5-012P1", "card_level": "C", "type": "디지몬", "level": 4, "DP": "-", "cost": 6, "attribute": "성숙기 데이터종 갑룡형", "evolution_cost": ["Lv.3~1", "-"], "effect": ["《블로커》 (이 디지몬은 블록 타이밍에 블록할 수 있다) 【어택 시】 메모리 -2.", "-", "-"],"image_link":"https://i.imgur.com/3TgdL6x.png"}
 
 ]
