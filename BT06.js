@@ -140,7 +140,9 @@ BT06=
 {"name":"플라이 불릿(P)","color":"자","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":7,"evolution_cost":["-","-"],"effect":["특징으로 「3총사」를 가진 자신의 디지몬이 있을 때, 이 카드는 색 조건을 무시할 수 있다. 【메인】 Lv.6 이하의 상대의 디지몬 1마리를 소멸시킨다.","【시큐리티】 이 카드의 【메인】 효과를 발휘한다.","-"],"card_number":"BT6-109P1","card_level":"U","image_link":"https://i.imgur.com/DrZelJR.png"},
 {"name":"철검성패(P)","color":"적","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":1,"evolution_cost":["-","-"],"effect":["【메인】 명칭에 「헉몬」을 포함하거나 특징으로 「로얄 나이츠」를 가진 자신의 디지몬 1마리는, 이 턴 동안 액티브 상태인 상대의 디지몬에게도 어택할 수 있다.","【시큐리티】 자신의 패/트래시에서 명칭에 「시스터몬」을 포함하는 디지몬 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 그 후, 이 카드를 패에 추가한다.","-"],"card_number":"BT6-093P1","card_level":"C","image_link":"https://i.imgur.com/001waB0.png"},
 {"name":"에오스몬(P)","color":"백","level":5,"type":"디지몬","attribute":"완전체 불명 불명","dp":6000,"cost":5,"evolution_cost":["Lv.4~3","Lv.4~3"],"effect":["이 카드와 동일한 카드 넘버의 카드는 덱에 50장까지 넣을 수 있다. 【어택 시】 자신의 패에서 Lv.5 이하의 「에오스몬」 1장을 코스트를 지불하지 않고 등장시킬 수 있다.","-","【자신의 턴】 이 디지몬의 DP를 +1000 한다."],"card_number":"BT6-085P1","card_level":"C","image_link":"https://i.imgur.com/AsmV5KJ.png"},
-{"name":"헉몬(P)","color":"적","level":3,"type":"디지몬","attribute":"성장기 데이터종 소룡형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 5장 오픈한다. 그중 명칭에 「헉몬」 또는 「제스몬」 또는 「시스터몬」을 포함하는 디지몬 카드 2장까지를 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT6-009P1","card_level":"R","image_link":"https://i.imgur.com/7Epm4A8.png"}
+
+
+{"name":"헉몬(P)","color":"적","level":3,"type":"디지몬","attribute":"성장기 데이터종 소룡형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 5장 오픈한다. 그중 명칭에 「헉몬」 또는 「제스몬」 또는 「시스터몬」을 포함하는 디지몬 카드 2장까지를 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT6-009P1","card_level":"R","image_link":"https://i.imgur.com/8lZQUPK.png"}
 
 
 ]

@@ -137,6 +137,6 @@ BT09=[{"name":"코로몬","color":"적","level":2,"type":"디지타마","attribu
 {"name":"데크스몬(P)","color":"자흑","level":7,"type":"디지몬","attribute":"궁극체 바이러스종 해석불능,X프로그램","dp":15000,"cost":20,"evolution_cost":["Lv.6~6","Lv.6~6"],"effect":["이 카드가 등장할 때, 상대 디지몬과 테이머 1장마다 지불하는 등장 코스트-3. 【등장 시】【진화 시】상대의 디지몬 전부를 《퇴화 1》. 그 후, Lv.4 이하의 상대 디지몬 전부를 소멸시킨다. 【상대의 턴 종료 시】〔턴에 1회〕가장 등장 코스트가 낮은 상대 디지몬 전부를 소멸시킨다.","-","-"],"card_number":"BT9-112P1","card_level":"SEC","image_link":"https://i.imgur.com/fNBY5D0.png","LOCAL_NUMBER":4135},
 
 {"name":"브이몬(P)","color":"청","level":3,"type":"디지몬","attribute":"성장기 프리 소룡형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 3장 오픈한다. 그중 특징으로 「프리」를 가진 카드 1장을 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"ST9-02P1","card_level":"U"},
-{"name":"도루몬(P)","color":"흑","level":3,"type":"디지몬","attribute":"성장기 데이터종 짐승형,X항체","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】자신의 패에서 특징으로 「X항체」를 가진 카드 1장을 파기하는 것으로, 《2 드로우》 (자신의 덱에서 카드를 2장 드로우한다).","-","-"],"card_number":"BT9-058P1","card_level":"U","image_link":"https://i.imgur.com/04QVLk2.png"}
 
+{"name":"도루몬(P)","color":"흑","level":3,"type":"디지몬","attribute":"성장기 데이터종 짐승형,X항체","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】자신의 패에서 특징으로 「X항체」를 가진 카드 1장을 파기하는 것으로, 《2 드로우》 (자신의 덱에서 카드를 2장 드로우한다).","-","-"],"card_number":"BT9-058P1","card_level":"U","image_link":"https://i.imgur.com/TdYHfvR.png"}
 ]

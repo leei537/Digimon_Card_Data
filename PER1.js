@@ -175,8 +175,8 @@ PER1=
 {"name":"디아블로몬 ACE","color":"흑","level":6,"type":"디지몬","attribute":"궁극체 불명 종족불명","dp":11000,"cost":6,"evolution_cost":["~3","-"],"effect":["[패]【카운터】《블래스트 진화》(자신의 디지몬을 이 카드로 코스트를 지불하지 않고 진화시킬 수 있다) 【진화 시】【어택 시】「디아블로몬」(디지몬・14 코스트・Lv.6・화이트・궁극체・불명・종족불명・DP 3000) 토큰 1마리를 코스트를 지불하지 않고 등장시킬 수 있다. 【서로의 턴】[턴에 1회]다른 디지몬이 효과로 등장했을 때, 등장 코스트 3 이하의 상대의 디지몬 1마리를 소멸시킬 수 있다. 자신의 「디아블로몬」 1마리마다 이 효과의 등장 코스트 상한 +2.","-","《오버플로우 《-4》》(에어리어 또는 카드 아래에서부터, 그 이외의 장소로 보내질 경우, 메모리 -4)-"],"card_number":"P-114","card_level":"P","image_link":"https://i.imgur.com/eapJDvG.png"},
 {"name":"스컬나이트몬","color":"흑자","level":4,"type":"디지몬","attribute":"성숙기 바이러스종 바그라군,언데드형,트와일라잇","dp":4000,"cost":4,"evolution_cost":["~3","~3"],"effect":["【소멸 시】자신의 패/트래시에서 명칭에 「노유라」/「노유빈」을 포함하는 테이머 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 그 후, 《세이브》.","-","【자신의 턴】특징으로 「바그라군」/「트와일라잇」을 가진 Lv.5 이상의 이 디지몬은 《S 어택 +1》을 얻는다."],"card_number":"P-115","card_level":"P","image_link":"https://i.imgur.com/B6OGhnL.png"},
 
-{"name":"길몬(P)","color":"적","level":3,"type":"디지몬","attribute":"성장기 바이러스종 파충류형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【어택 시】《1 드로우》 (자신의 덱에서 카드를 1장 드로우한다)","-","-"],"card_number":"P-041P1","card_level":"P","image_link":"https://i.imgur.com/iPILSLV.png"},
-{"name":"쿠다몬(P)","color":"황","level":3,"type":"디지몬","attribute":"성장기 백신종 성수형","dp":1000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 트래시에서, 「슬레이프몬」 1장을 덱 아래로 되돌리는 것으로, 〈리커버리 +1 《덱》〉 (자신의 덱 위에서부터 카드를 1장 시큐리티 위에 놓는다).","-","【소멸 시】 이 턴 동안, 상대 디지몬 1마리의 DP -1000"],"card_number":"P-043P1","card_level":"P","image_link":"https://i.imgur.com/VEjQvDF.png"}
+
+{"name":"쿠다몬(P)","color":"황","level":3,"type":"디지몬","attribute":"성장기 백신종 성수형","dp":1000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 트래시에서, 「슬레이프몬」 1장을 덱 아래로 되돌리는 것으로, 〈리커버리 +1 《덱》〉 (자신의 덱 위에서부터 카드를 1장 시큐리티 위에 놓는다).","-","【소멸 시】 이 턴 동안, 상대 디지몬 1마리의 DP -1000"],"card_number":"P-043P1","card_level":"P","image_link":"https://i.imgur.com/FQ9erCu.png"}
 ]
 
 

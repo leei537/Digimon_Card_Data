@@ -39,4 +39,12 @@ ST07_08_09=
 {"name":"주엘비몬","color":"녹","level":5,"type":"디지몬","attribute":"완전체 백신종 곤충형","dp":7000,"cost":6,"evolution_cost":["Lv.4~2","-"],"effect":["-","-","-"],"card_number":"ST9-12","card_level":"C","image_link":"https://i.imgur.com/VUVa4KK.png","LOCAL_NUMBER":15035},
 {"name":"그랜쿠가몬","color":"녹","level":6,"type":"디지몬","attribute":"궁극체 프리 곤충형","dp":11000,"cost":12,"evolution_cost":["Lv.5~3","-"],"effect":["《시큐리티 어택 +1》 (이 디지몬이 체크하는 시큐리티의 매수 +1) 【진화 시】 이 턴 동안 이 디지몬의 DP를 +4000 한다.","-","-"],"card_number":"ST9-13","card_level":"R","image_link":"https://i.imgur.com/1EbQElI.png","LOCAL_NUMBER":15036},
 {"name":"메가 펀치","color":"청녹","type":"옵션","attribute":"- - -","dp":"-","cost":"5","evolution_cost":["-","-"],"effect":["【메인】상대 디지몬 1마리를 레스트시킨다. 그 후, 레스트 상태의 상대 디지몬 1마리를 패로 되돌린다.","【시큐리티】이 카드의 【메인】효과를 발휘한다.","-"],"card_number":"ST9-14","card_level":"R","image_link":"https://i.imgur.com/lwCMTh1.png","LOCAL_NUMBER":15037},
-{"name":"헬 마스커레이드","color":"녹","type":"옵션","attribute":"- - -","dp":"-","cost":"1","evolution_cost":["-","-"],"effect":["【메인】이 턴 동안 자신의 디지몬 1마리의 DP를 +2000 한다. 그 후, 블루인 자신의 디지몬이 있을 때, 이 턴 동안 자신의 디지몬 1마리는 《관통》 (이 디지몬이 어택한 배틀에서 상대의 디지몬만을 소멸시켰을 때, 이 디지몬은 시큐리티를 체크한다)을 얻는다.","【시큐리티】이 카드를 패에 추가한다.","-"],"card_number":"ST9-15","card_level":"U","image_link":"https://i.imgur.com/qW22GEh.png","LOCAL_NUMBER":15038}]
+{"name":"헬 마스커레이드","color":"녹","type":"옵션","attribute":"- - -","dp":"-","cost":"1","evolution_cost":["-","-"],"effect":["【메인】이 턴 동안 자신의 디지몬 1마리의 DP를 +2000 한다. 그 후, 블루인 자신의 디지몬이 있을 때, 이 턴 동안 자신의 디지몬 1마리는 《관통》 (이 디지몬이 어택한 배틀에서 상대의 디지몬만을 소멸시켰을 때, 이 디지몬은 시큐리티를 체크한다)을 얻는다.","【시큐리티】이 카드를 패에 추가한다.","-"],"card_number":"ST9-15","card_level":"U","image_link":"https://i.imgur.com/qW22GEh.png","LOCAL_NUMBER":15038},
+
+{"name":"드라코몬(P)","color":"청","level":3,"type":"디지몬","attribute":"성장기 데이터종 용형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 3장 오픈한다. 그중 명칭에 「드라몬」을 포함하는 디지몬 카드 1장을 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"ST8-03P2","card_level":"C","image_link":"https://i.imgur.com/QD75sMy.png"},
+{"name":"브이몬(P)","color":"청","level":3,"type":"디지몬","attribute":"성장기 프리 소룡형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 3장 오픈한다. 그중 특징으로 「프리」를 가진 카드 1장을 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"ST9-02P2","card_level":"U","image_link":"https://i.imgur.com/a0e9Q4H.png"}
+
+
+
+
+]
