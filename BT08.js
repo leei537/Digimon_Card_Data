@@ -137,8 +137,8 @@ BT08=
 {"name":"황제드라몬: 팔라딘 모드","color":"백","level":7,"type":"디지몬","attribute":"궁극체 백신종 고대성기사형","dp":16000,"cost":15,"evolution_cost":["Lv.6~7","Lv.6~7"],"effect":["자신의 디지몬이 패의 이 카드로 진화할 때, 자신의 트래시에서 화이트인 Lv.7의 디지몬 카드 1장을 덱 아래로 되돌리는 것으로, 지불하는 진화 코스트 -4. \n【진화 시】【어택 시】이 디지몬의 진화원에서 2색의 카드 1장을 덱 아래로 되돌리는 것으로, 상대 디지몬 1마리의 진화원을 모두 파기한다. 그 후, 진화원을 갖지 않은 상대의 디지몬 전부를 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT8-112","card_level":"SEC","image_link":"https://i.imgur.com/OzVaCnw.png","LOCAL_NUMBER":3111},
 {"name":"황제드라몬: 팔라딘 모드(P)","color":"백","level":7,"type":"디지몬","attribute":"궁극체 백신종 고대성기사형","dp":16000,"cost":15,"evolution_cost":["Lv.6~7","Lv.6~7"],"effect":["자신의 디지몬이 패의 이 카드로 진화할 때, 자신의 트래시에서 화이트인 Lv.7의 디지몬 카드 1장을 덱 아래로 되돌리는 것으로, 지불하는 진화 코스트 -4. \n【진화 시】【어택 시】이 디지몬의 진화원에서 2색의 카드 1장을 덱 아래로 되돌리는 것으로, 상대 디지몬 1마리의 진화원을 모두 파기한다. 그 후, 진화원을 갖지 않은 상대의 디지몬 전부를 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT8-112P1","card_level":"SEC","image_link":"https://i.imgur.com/1vfukVX.png","LOCAL_NUMBER":3135},
 
-{"name":"사마디 ･ 샨티(P)","color":"녹","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":1,"evolution_cost":["-","-"],"effect":["【메인】자신의 디지몬 1마리를 레스트시키는 것으로, 상대의 디지몬/테이머 1마리(명)를 레스트시킨다. 상대의 턴 종료까지 이 효과로 레스트시킨 상대의 카드는 액티브가 되지 않는다.","【시큐리티】상대의 디지몬/테이머 1마리(명)를 레스트시킨다.","-"],"card_number":"BT8-102P1","card_level":"U","image_link":"https://i.imgur.com/5LXTyeF.png"}
-
+{"name":"사마디 ･ 샨티(P)","color":"녹","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":1,"evolution_cost":["-","-"],"effect":["【메인】자신의 디지몬 1마리를 레스트시키는 것으로, 상대의 디지몬/테이머 1마리(명)를 레스트시킨다. 상대의 턴 종료까지 이 효과로 레스트시킨 상대의 카드는 액티브가 되지 않는다.","【시큐리티】상대의 디지몬/테이머 1마리(명)를 레스트시킨다.","-"],"card_number":"BT8-102P1","card_level":"U","image_link":"https://i.imgur.com/5LXTyeF.png"},
+{"name":"드라코몬(P)","color":"청","level":3,"type":"디지몬","attribute":"성장기 데이터종 용형","dp":2000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【등장 시】 자신의 덱 위에서부터 3장 오픈한다. 그중 명칭에 「드라몬」을 포함하는 디지몬 카드 1장을 패에 추가한다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"ST8-03P1","card_level":"C","image_link":"https://i.imgur.com/Ue38I4x.png"}
 
 
 
