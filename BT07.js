@@ -147,7 +147,10 @@ BT07=
 {"name":"네몬(P)","color":"백","level":3,"type":"디지몬","attribute":"성장기 데이터종 짐승형","dp":2000,"cost":3,"evolution_cost":["-","-"],"effect":["【등장 시】자신의 패에서 진화원 효과를 가진 테이머 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 【서로의 턴】〔턴에 1회〕진화원에 테이머 카드를 가진 자신의 디지몬이 소멸했을 때, 자신의 트래시에서 테이머 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다.","-","-"],"card_number":"BT7-080P1","card_level":"C","image_link":"https://i.imgur.com/6UgZxJR.png"},
 {"name":"보코몬(P)","color":"백","level":3,"type":"디지몬","attribute":"성장기 백신종 돌연변이형","dp":2000,"cost":3,"evolution_cost":["-","-"],"effect":["【등장 시】자신의 덱 위에서부터 5장 오픈한다. 그중 테이머 카드 1장과 특징으로 「하이브리드체」/「10투사」를 가진 카드 1장을 패에 추가한다. 나머지는 덱 아래로 되돌린다. 【자신의 턴】〔턴에 1회〕자신의 테이머가 진화했을 때, 메모리 +2.","-","-"],"card_number":"BT7-081P1","card_level":"C","image_link":"https://i.imgur.com/pLVdNB4.png"},
 {"name":"슈츠몬(P)","color":"황","level":4,"type":"디지몬","attribute":"하이브리드체 배리어블종 조인형","dp":6000,"cost":6,"evolution_cost":["Lv.3~3","Lv.4~1"],"effect":["패의 이 카드는, 옐로인 자신의 테이머를 옐로인 Lv.3의 디지몬으로서 취급하여 진화 코스트 2를 지불하여 진화할 수 있다. 【진화 시】이 디지몬의 진화원에 특징으로 「하이브리드체」를 갖는 카드 또는 「고은비」가 있을 때, 다음 상대의 턴 종료 시까지 자신의 시큐리티 디지몬 전부의 DP를 +3000 한다.","-","-"],"card_number":"BT7-036P1","card_level":"U","image_link":"https://i.imgur.com/XC4oSwX.png"},
-{"name":"도리몬(P)","color":"흑","level":2,"type":"디지타마","attribute":"유년기 - 렛서형,X항체","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","【자신의 턴】〔턴에 1회〕 자신의 효과로 이 디지몬의 진화원이 늘어났을 때, 《1 드로우》 (자신의 덱에서 카드를 1장 드로우한다)."],"card_number":"BT7-005P1","card_level":"U","image_link":"https://i.imgur.com/eIWk9zm.png"}
+{"name":"도리몬(P)","color":"흑","level":2,"type":"디지타마","attribute":"유년기 - 렛서형,X항체","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["-","-","【자신의 턴】〔턴에 1회〕 자신의 효과로 이 디지몬의 진화원이 늘어났을 때, 《1 드로우》 (자신의 덱에서 카드를 1장 드로우한다)."],"card_number":"BT7-005P1","card_level":"U","image_link":"https://i.imgur.com/eIWk9zm.png"},
+
+{"name":"프라이드・메모리 부스트!!(P)","color":"흑","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":4,"evolution_cost":["-","-"],"effect":["【메인】자신의 덱 위에서부터 3장 오픈한다. 그중 블랙인 등장 코스트 4 이하의 디지몬 카드 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 나머지는 파기한다. 그 후, 이 카드를 배틀 에어리어에 놓는다. 【메인】《딜레이》 ・메모리 +2.","【시큐리티】이 카드를 배틀 에어리어에 놓는다.","-"],"card_number":"BT7-105P1","card_level":"U","image_link":"https://i.imgur.com/iEjefoR.png"}
+
 
 
 

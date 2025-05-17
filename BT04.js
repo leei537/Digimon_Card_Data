@@ -143,7 +143,8 @@ BT04=
 {"name":"에이션트가루몬(P)","color":"청","level":6,"type":"디지몬","attribute":"궁극체 데이터종 고대짐승형/10투사","dp":13000,"cost":12,"evolution_cost":["Lv.5~5","-"],"effect":["【어택 시】【턴에 1회】 [가루몬]의 이름을 가진, 혹은 [하이브리드]특징을 가진 2체의 디지몬을 액티브 한다.\n【소멸 시】 4레벨 이하의 [하이브리드]특징을 가진 청색 디지몬을 패에서 코스트 없이 등장 할 수 있다.","-","-"],"card_number":"BT4-114P1","card_level":"SEC","image_link":"https://i.imgur.com/pEr7nIE.png","LOCAL_NUMBER":654},
 {"name":"루체몬(P)","color":"황","level":3,"type":"디지몬","attribute":"성장기 - 천사형","dp":10000,"cost":13,"evolution_cost":["-","-"],"effect":["10장 이상의 카드가 트래쉬에 있는 동안 패에서 이 카드를 등장 시킬 때, 이 카드의 등장 코스트를 8 낮춘다.【등장 시】 ＜리커버리 +1 (덱)＞. (자신의 덱 위에서부터 카드를 1장 시큐리티 위에 놓는다)【모든 턴】 이 디지몬은 오직 [루체몬]이름을 포함하는 디지몬으로만 진화할 수 있다.","-","-"],"card_number":"BT4-115P1","card_level":"SEC","image_link":"https://i.imgur.com/DzMBJ4a.png","LOCAL_NUMBER":655},
 
-{"name":"코만드라몬(P)","color":"흑","level":3,"type":"디지몬","attribute":"성장기 바이러스종 사이보그형,D-브리가드","dp":1000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【소멸 시】 자신의 덱 위에서부터 3장 오픈한다. 그 중 「코만드라몬」 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT4-063P1","card_level":"R","image_link":"https://i.imgur.com/XprFrgh.png"}
+{"name":"코만드라몬(P)","color":"흑","level":3,"type":"디지몬","attribute":"성장기 바이러스종 사이보그형,D-브리가드","dp":1000,"cost":3,"evolution_cost":["Lv.2~0","-"],"effect":["【소멸 시】 자신의 덱 위에서부터 3장 오픈한다. 그 중 「코만드라몬」 1장을 코스트를 지불하지 않고 등장시킬 수 있다. 남은 카드는 원하는 순서대로 덱 아래로 되돌린다.","-","-"],"card_number":"BT4-063P1","card_level":"R","image_link":"https://i.imgur.com/XprFrgh.png"},
+{"name":"절광충(P)","color":"황","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":"-","evolution_cost":["-","-"],"effect":["【메인】자신의 시큐리티를 위에서부터 1장 파기한다. 그 후, 메모리 +2.","-","-"],"card_number":"BT4-104P1","card_level":"R","image_link":"https://i.imgur.com/dUZAWhq.png"}
 
 ]
 

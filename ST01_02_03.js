@@ -55,5 +55,6 @@ ST01_02_03=[{"name":"코로몬","color":"적","level":2,"type":"디지타마","a
 {"name":"세븐 헤븐즈","color":"황","level":0,"type":"옵션","attribute":"-","dp":0,"cost":7,"evolution_cost":["-","-"],"effect":["【메인】 이 턴 동안, 상대의 디지몬 1마리의 DP를","10000 한다. 【시큐리티】 이 카드의 【메인】 효과를 발휘한다.","-"],"card_number":"ST3-16","card_level":"U","image_link":"https://i.imgur.com/wXoFVio.jpg","LOCAL_NUMBER":48},
 
 
-{"name": "아구몬(P)", "color": "적", "card_number": "ST1-03P1", "card_level": "U", "type": "디지몬", "level": 3, "DP": 2000, "cost": 3, "attribute": "성장기 백신종 파충류형", "evolution_cost": ["Lv.2~0", "-"], "effect": ["-", "-", "【자신의 턴】이 디지몬을 DP +1000."],"image_link":"https://i.imgur.com/1SDgjlf.png"}
+{"name": "아구몬(P)", "color": "적", "card_number": "ST1-03P1", "card_level": "U", "type": "디지몬", "level": 3, "DP": 2000, "cost": 3, "attribute": "성장기 백신종 파충류형", "evolution_cost": ["Lv.2~0", "-"], "effect": ["-", "-", "【자신의 턴】이 디지몬을 DP +1000."],"image_link":"https://i.imgur.com/1SDgjlf.png"},
+{"name":"카이저 네일(P)","color":"청","level":"-","type":"옵션","attribute":"- - -","dp":"-","cost":4,"evolution_cost":["-","-"],"effect":["【메인】자신의 디지몬 1마리의 진화원에서 디지몬 카드 1장을 코스트를 지불하지 않고 등장시킨다.","【시큐리티】이 카드의 【메인】 효과를 발휘한다.","-"],"card_number":"ST2-15P1","card_level":"C","image_link":"https://i.imgur.com/ZLzFo2r.png"}
 ]
